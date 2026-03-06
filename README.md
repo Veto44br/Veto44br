@@ -1,6 +1,6 @@
 ## Meu nome é Victor Hugo
 
-- Estou me desenvolvendo no HTML, CSS.
+- Estou me desenvolvendo no HTML, CSS, JS.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ### Você pode entrar em contato contato comigo 📫📧
